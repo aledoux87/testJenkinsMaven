@@ -1,4 +1,4 @@
-package com.urbanisationsi.microservices_assure;
+package com.urbanisation_si.microservices_assure;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
